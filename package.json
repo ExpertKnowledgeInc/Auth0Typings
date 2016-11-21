@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Seth Westphal",
+    "email": "https://github.com/westy92"
+  },
+  "dependencies": {
+    "@types/bluebird": "*"
+  },
+  "description": "TypeScript definitions for auth0 v2.3.1",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "66f05e7471ef5b8c84c6df7f1f6bab6c0ff17a91",
+    "tarball": "https://registry.npmjs.org/@types/auth0/-/auth0-2.3.33-0.tgz"
+  },
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "name": "@types/auth0",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "91141683e105c4dc70863b710be9fd508d742373ee394ccd6cba4c5634902a5e",
+  "typings": "index.d.ts",
+  "version": "2.3.33-0"
+}

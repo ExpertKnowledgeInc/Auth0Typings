@@ -1,0 +1,25 @@
+{
+    "authors": "Seth Westphal <https://github.com/westy92>",
+    "definitionFilename": "index.d.ts",
+    "libraryDependencies": [],
+    "moduleDependencies": [
+        "bluebird"
+    ],
+    "libraryMajorVersion": "2",
+    "libraryMinorVersion": "3",
+    "libraryName": "auth0 v2.3.1",
+    "typingsPackageName": "auth0",
+    "projectName": "https://github.com/auth0/node-auth0",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "types-2.0",
+    "kind": "ProperModule",
+    "globals": [],
+    "declaredModules": [
+        "auth0"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "91141683e105c4dc70863b710be9fd508d742373ee394ccd6cba4c5634902a5e"
+}
